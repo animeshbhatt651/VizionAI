@@ -4,11 +4,10 @@ The demand for AI-powered data visualization tools is surging as businesses seek
 
 ![AI Data Visualization Agent](https://github.com/GURPREETKAURJETHRA/AI-Data-Visualization-Agent/blob/main/img/AI%20DVA.jpg) 
 
-We'll build an AI Data Visualization Agent using Together AI's powerful language models and E2B's secure code execution environment. This agent will understand natural language queries about your data and automatically generate appropriate visualizations, making data exploration intuitive and efficient.
+This agent will understand natural language queries about your data and automatically generate appropriate visualizations, making data exploration intuitive and efficient.
 
 ![AI Data Visualization Agent](https://github.com/GURPREETKAURJETHRA/AI-Data-Visualization-Agent/blob/main/img/AI%20DVA1.jpg)
 
-This tutorial can also be considered as a demo for the E2B Code Interpreter and Together AI, for anyone who's getting started with these libraries!
 
 Features:
 💬 Natural language query interface for data visualization                                             
@@ -69,7 +68,7 @@ Follow the steps below to set up and run the application:
     streamlit run ai_data_visualisation_agent.py
     ```
 
-Happy coding! 🚀✨
+Happy building! 🚀✨
 
 ## ©️ License 🪪 
 
@@ -77,7 +76,6 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ---
 
-#### **If you like this LLM Project do drop ⭐ to this repo**
-#### Follow me on [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gurpreetkaurjethra/) &nbsp; [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GURPREETKAURJETHRA/)
+#### Follow me on [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/animeshbhatt651/) &nbsp; [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/animeshbhatt651/)
 
 ---
